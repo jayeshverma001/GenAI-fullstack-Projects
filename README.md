@@ -52,7 +52,4 @@ streamlit run app.py
 - Integrated AI-driven conversation features using LangChain to enhance user experience.
 - Deployed an interactive web app with Streamlit, allowing users to access fitness guidance easily.
 
-## For Mentorship Connect me here [Click here](https://topmate.io/shivan_kumar1)
-# GenAI-fullstack-Projects
-Developing and Deploying full stack GenAI projects with new techs, langchain, agents .
-7cea3aa02441bd23414d0ab4b9e018bfb006216a
+
